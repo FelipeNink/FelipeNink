@@ -1,8 +1,3 @@
-<p align="right">
-  <img src="assets/lang-pt-on.svg" alt="PT" height="32"/>
-  <a href="https://github.com/FelipeNink/FelipeNink/blob/main/README.en.md"><img src="assets/lang-en-off.svg" alt="EN" height="32"/></a>
-</p>
-
 <img src="assets/banner-pt.png" alt="Felipe Nink" width="100%"/>
 <br/>
 
@@ -19,8 +14,8 @@
 <h3>Projetos</h3>
 
 <p align="center">
-  <a href="https://coopfoods.com.br"><img src="assets/card-coopfoods-pt.svg" alt="CoopFoods — ver demo" width="32%"/></a>
-  <a href="#"><img src="assets/card-barbearia-pt.svg" alt="Barbearia — ver demo" width="32%"/></a>
+  <img src="assets/card-coopfoods-pt.svg" alt="Cooperativa de alimentos — demo em breve" width="32%"/>
+  <a href="https://github.com/FelipeNink/barbearia-erp-demo"><img src="assets/card-barbearia-pt.svg" alt="Barbearia — ver demo" width="32%"/></a>
   <img src="assets/card-soon-pt.svg" alt="Em breve" width="32%"/>
 </p>
 
@@ -37,4 +32,3 @@
   <img src="assets/tech/git.svg" alt="Git" width="68"/>
   <img src="assets/tech/figma.svg" alt="Figma" width="68"/>
 </p>
-
