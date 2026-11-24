@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="assets/card-coopfoods-pt.svg" alt="Cooperativa de alimentos — demo em breve" width="32%"/>
-  <a href="https://github.com/FelipeNink/barbearia-erp-demo"><img src="assets/card-barbearia-pt.svg" alt="Barbearia — ver demo" width="32%"/></a>
+  <img src="assets/card-barbearia-pt.svg" alt="Barbearia — demo em breve" width="32%"/>
   <img src="assets/card-soon-pt.svg" alt="Em breve" width="32%"/>
 </p>
 
